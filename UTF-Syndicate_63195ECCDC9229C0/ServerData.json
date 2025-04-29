@@ -1,0 +1,6 @@
+﻿{
+    "id": "63195ECCDC9229C0",
+    "name": "UTF-Syndicate",
+    "revision": {"version":"1.0.14","gameVersion":"","changelog":"","corrupted":false,"dependencies":[{"assetId":"595F2BF2F44836FB","assetName":"RHS - Status Quo","version":"0.11.4316"},{"assetId":"629B2BA37EFFD577","assetName":"WCS_Armaments","version":"3.0.16"}],"scenarios":[],"env":7
+    }
+}

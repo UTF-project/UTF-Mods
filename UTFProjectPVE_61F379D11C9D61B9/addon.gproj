@@ -1,0 +1,22 @@
+GameProject {
+ ID "UTFProjectPVE"
+ GUID "61F379D11C9D61B9"
+ TITLE "UTF Project PVE"
+ Dependencies {
+  "58D0FB3206B6F859" "595F2BF2F44836FB" "62ED57F931A48D5B" "62830AEDEA4F6079"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+ }
+}

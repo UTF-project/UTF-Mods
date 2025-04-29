@@ -1,0 +1,22 @@
+GameProject {
+ ID "UTFMilitaryPolice"
+ GUID "65035E48EC9313C6"
+ TITLE "UTF-Military-Police"
+ Dependencies {
+  "58D0FB3206B6F859" "595F2BF2F44836FB" "647CB046E0EDE0D9" "61D064EEF504A843" "5D550926D43F1409"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+ }
+}

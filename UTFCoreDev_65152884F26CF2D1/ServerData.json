@@ -1,0 +1,6 @@
+﻿{
+    "id": "65152884F26CF2D1",
+    "name": "UTFCore Dev",
+    "revision": {"version":"1.0.61","gameVersion":"","changelog":"","corrupted":false,"dependencies":[],"scenarios":[{"name":"Test","description":"-","authorName":"pghka","ownerId":"65152884F26CF2D1","image":{},"gameId":"{59AD59368755F41B}Missions/21_GM_Eden.conf","playerCount":8},{"name":"Arland","description":"Силы UTF прибыли на остров по сигналу о помощи. UTF - это миротворческая организация, которая борется за справедливость и свободу.","authorName":"Berling, Pavlin, pgshkaa","ownerId":"65152884F26CF2D1","image":{},"gameId":"{0189D7FB0B14AE3A}Missions/Conflict_Arland_PVE.ent.conf","playerCount":60}],"env":7
+    }
+}

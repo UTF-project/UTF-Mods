@@ -1,0 +1,6 @@
+﻿{
+    "id": "62ED57F931A48D5B",
+    "name": "UTF-Core",
+    "revision": {"version":"1.2.19","gameVersion":"","changelog":"","corrupted":false,"dependencies":[],"scenarios":[{"name":"Test World","description":"Empty","authorName":"Test World","ownerId":"62ED57F931A48D5B","image":{},"gameId":"{668E701EE8187519}Missions/Empty.conf","playerCount":6}],"env":7
+    }
+}
