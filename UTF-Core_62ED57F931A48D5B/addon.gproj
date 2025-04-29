@@ -1,8 +1,0 @@
-GameProject {
- ID "UTFCore"
- GUID "62ED57F931A48D5B"
- TITLE "UTF-Core"
- Dependencies {
-  "58D0FB3206B6F859"
- }
-}
